@@ -26,7 +26,9 @@ I have gained valuable insight into teamwork in an academic setting and explored
 **TÜBİTAK 2209 A**
   
 This research grant is dedicated to support undergraduate projects in Turkey.
+
 Classification of hematogones & neoplastic B lymphoblasts through computational analysis of flow cytometry data to improve B cell acute lymphoblastic leukemia treatment
+
 (TÜBİTAK : Scientific and Technological Research Council of Turkey)
 
 ## Contact
