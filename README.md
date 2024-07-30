@@ -12,15 +12,11 @@ I am a 4th grade medical student who aspires to approach complex diseases with c
 
 ## Experience
 
-*Yeditepe University Hospital & Stem Cell Laboratory* --- İstanbul , Sep. 2023 - today
+*Yeditepe University Hospital & Stem Cell Laboratory § FLow Cytometry Facility* --- İstanbul , Sep. 2023 - today
 
-    I’ve been learning lab skills like pipetting, taking safety precautions, record keeping, troubleshooting, and, reporting
-    I’ve had experience in analyzing marrow samples using flow cytometry
     
 *Koç University Computational Structural Biology Laboratory* --- İstanbul , Sep. 2020 - June 2021
   
-    I have gained valuable insight into teamwork in an academic setting and explored computational approaches for studying protein interactome.
-
 ## Projects
 
 **TÜBİTAK 2209 A**
