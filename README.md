@@ -23,7 +23,7 @@ I am a 4th grade medical student who aspires to approach complex diseases with c
   
 This research grant is dedicated to support undergraduate projects in Turkey.
 
-Classification of hematogones & neoplastic B lymphoblasts through computational analysis of flow cytometry data to improve B cell acute lymphoblastic leukemia treatment
+Title : Classification of hematogones & neoplastic B lymphoblasts through computational analysis of flow cytometry data to improve B cell acute lymphoblastic leukemia treatment
 
 (TÜBİTAK : Scientific and Technological Research Council of Turkey)
 
