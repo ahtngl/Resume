@@ -4,39 +4,36 @@ I am a 4th grade medical student who aspires to approach complex diseases with c
 
 ## Education
 
-**Yeditepe University**
-  
-  İstanbul — Sep. 2021 - today
-  Faculty of Medicine - 4th year / 6
+*Yeditepe University § Faculty of Medicine* - İstanbul , Sep. 2021 - today
+
+4th year / 6
+
     
-**Koç University** 
+*Koç University* - İstanbul , Sep. 2020 - June 2021
+    
+*Kabataş High School* - İstanbul — Sep. 2015 - June 2020
   
-  İstanbul — Sep. 2020 - June 2021
-  Completed Courses – Calculus I - II, Introduction to Linear Algebra, General Physics, General Chemistry, Programming with Python, Academic Writing
-  
-**Kabataş High School** 
-  
-  Mathematics & Sciences Track
-  İstanbul — Sep. 2015 - June 2020
+Mathematics & Sciences Track
 
 ## Experience
 
-**Yeditepe University Hospital & Stem Cell Laboratory, Intern**
-  
-  İstanbul — Sep. 2023 - today
-  I’ve been learning lab skills like pipetting, taking safety precautions, record keeping, troubleshooting, and, reporting
-  I’ve had experience in analyzing marrow samples using flow cytometry
+*Yeditepe University Hospital & Stem Cell Laboratory, Intern* - İstanbul , Sep. 2023 - today
+
+I’ve been learning lab skills like pipetting, taking safety precautions, record keeping, troubleshooting, and, reporting
+I’ve had experience in analyzing marrow samples using flow cytometry
     
-**Koç University Computational Structural Biology Laboratory, Member**
-  İstanbul — Sep. 2020 - June 2021
-  I have gained valuable insight into teamwork in an academic setting and explored computational approaches for studying protein interactome.
+*Koç University Computational Structural Biology Laboratory, Member* - İstanbul , Sep. 2020 - June 2021
+  
+I have gained valuable insight into teamwork in an academic setting and explored computational approaches for studying protein interactome.
 
 ## Projects
 
 **TÜBİTAK 2209 A**
-  This research grant is dedicated to support undergraduate projects in Turkey.
-  Classification of hematogones & neoplastic B lymphoblasts through computational analysis of flow cytometry data to improve B cell acute lymphoblastic leukemia treatment
-  (TÜBİTAK : Scientific and Technological Research Council of Turkey)
+  
+This research grant is dedicated to support undergraduate projects in Turkey.
+Classification of hematogones & neoplastic B lymphoblasts through computational analysis of flow cytometry data to improve B cell acute lymphoblastic leukemia treatment
+(TÜBİTAK : Scientific and Technological Research Council of Turkey)
 
 ## Contact
-  **Email:** alihanhatunoglu@gmail.com
+
+**Email:** alihanhatunoglu@gmail.com
